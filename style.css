@@ -84,6 +84,8 @@ body {
   display: none;
 }
 
+/* Navbar End */
+
 /* Hero Section */
 
 .hero {
@@ -143,6 +145,8 @@ body {
   box-shadow: 1px 1px 3px rgba(1, 1, 2, 0.5);
 }
 
+/* Hero End */
+
 /* About Section */
 
 .about,
@@ -194,6 +198,8 @@ body {
   line-height: 1.6;
 }
 
+/* About End */
+
 /* Menu Section */
 .menu h2,
 .contact h2 {
@@ -228,6 +234,8 @@ body {
 .menu .row .menu-card .menu-card-title {
   margin: 1rem auto 0.5rem;
 }
+
+/* Menu End */
 
 /* Contact Section */
 .contact .row {
@@ -275,6 +283,8 @@ body {
   cursor: pointer;
 }
 
+/* Contact End */
+
 /* Footer */
 footer {
   background-color: var(--primary);
@@ -314,6 +324,8 @@ footer .credit a {
   color: var(--bg);
   font-weight: 700;
 }
+
+/* Footer End */
 
 /* Media Queries */
 
